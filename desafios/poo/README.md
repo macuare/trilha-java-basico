@@ -1,7 +1,7 @@
 # [DIO](www.dio.me) - Trilha Java Básico
 
 ## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Cusatti Andy](https://github.com/macuare)
 
 ## POO - Desafio
 
@@ -61,4 +61,7 @@ classDiagram
 
 ```bash
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
-```` 
+````
+
+#### SOLUCION
+![Dio-Diagrama-Flujo-Iphone](https://github.com/digitalinnovationone/trilha-java-basico/assets/18402122/f917a5b9-325a-4511-b6d0-b4147cf9227f)
